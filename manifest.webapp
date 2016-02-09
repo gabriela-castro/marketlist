@@ -1,0 +1,13 @@
+{
+  "name": "Market List",
+  "description": "Um aplicativo simples para manter a sua lista de compras ao supermecador.",
+  "launch_path": "/index.html",
+  "icons": {
+       "128": "/img/icon_128.png"
+  },
+  "developer": {
+    "name": "Gabriela Castro",
+    "url": "http://www.gabriela.x-br.com/"
+  },
+  "default_locale": "Pt-br"
+}
